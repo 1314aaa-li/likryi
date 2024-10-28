@@ -1,0 +1,36 @@
+@charset "utf-8";
+#top {
+	width: 1137px;
+	margin-right: auto;
+	margin-left: auto;
+	border: thick double #663399;
+	background-color: #B7E0B8;
+	font-size: 36px;
+	font-family: "华文行楷";
+	color: #FFF;
+	text-align: center;
+}
+#bottom {
+	font-family: "华文行楷";
+	font-size: 36px;
+	color: #FFF;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	border: thick double #663399;
+	background-color: #B7E0B8;
+	height: auto;
+	text-align: center;
+}
+
+
+#content {
+	font-family: "华文行楷";
+	font-size: 22px;
+	color: #FFF;
+	width: 1137px;
+	margin-right: auto;
+	margin-left: auto;
+	border: thick double #663399;
+	background-color: #B7E0B8;
+}

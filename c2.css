@@ -1,0 +1,74 @@
+@charset "utf-8";
+#content {
+	font-family: "华文楷体";
+	font-size: 22px;
+	color: #000;
+	clear: left;
+	width: 1137px;
+	margin-right: auto;
+	margin-left: auto;
+	border: thick double #FFF;
+}
+#bottom {
+	width: 200px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "华文行楷";
+	font-size: 36px;
+	background-color: #B9DDF3;
+	border: thick double #FFF;
+}
+
+#top {
+	font-family: "华文行楷";
+	font-size: 36px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1137px;
+	text-align: center;
+	background-color: #B9DDF3;
+	color: #000;
+	border: thick double #FFF;
+}
+#content #content1 {
+	clear: left;
+	float: left;
+	height: 350px;
+}
+#content #content2 {
+	background-color: #E2F4FE;
+	height: 350px;
+}
+
+
+#content #content5 {
+	clear: left;
+	float: left;
+	height: 350px;
+}
+#content #content4 {
+	background-color: #E2F4FE;
+	height: 350px;
+}
+
+#content #content3 {
+	clear: left;
+	float: left;
+	height: 350px;
+}
+
+
+#content #content6 {
+	background-color: #E2F4FE;
+	height: 350px;
+}
+#content #content7 {
+	clear: left;
+	float: left;
+	height: 350px;
+}
+#content #content8 {
+	background-color: #E2F4FE;
+	height: 350px;
+}
